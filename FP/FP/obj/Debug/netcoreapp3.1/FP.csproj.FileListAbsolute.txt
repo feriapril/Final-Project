@@ -1,0 +1,13 @@
+E:\Tugas\Project\Pemrograman\19.11.2890\FP\FP\obj\Debug\netcoreapp3.1\FP.csprojAssemblyReference.cache
+E:\Tugas\Project\Pemrograman\19.11.2890\FP\FP\obj\Debug\netcoreapp3.1\FP.AssemblyInfoInputs.cache
+E:\Tugas\Project\Pemrograman\19.11.2890\FP\FP\obj\Debug\netcoreapp3.1\FP.AssemblyInfo.cs
+E:\Tugas\Project\Pemrograman\19.11.2890\FP\FP\obj\Debug\netcoreapp3.1\FP.csproj.CoreCompileInputs.cache
+E:\Tugas\Project\Pemrograman\19.11.2890\FP\FP\bin\Debug\netcoreapp3.1\FP.exe
+E:\Tugas\Project\Pemrograman\19.11.2890\FP\FP\bin\Debug\netcoreapp3.1\FP.deps.json
+E:\Tugas\Project\Pemrograman\19.11.2890\FP\FP\bin\Debug\netcoreapp3.1\FP.runtimeconfig.json
+E:\Tugas\Project\Pemrograman\19.11.2890\FP\FP\bin\Debug\netcoreapp3.1\FP.runtimeconfig.dev.json
+E:\Tugas\Project\Pemrograman\19.11.2890\FP\FP\bin\Debug\netcoreapp3.1\FP.dll
+E:\Tugas\Project\Pemrograman\19.11.2890\FP\FP\bin\Debug\netcoreapp3.1\FP.pdb
+E:\Tugas\Project\Pemrograman\19.11.2890\FP\FP\obj\Debug\netcoreapp3.1\FP.dll
+E:\Tugas\Project\Pemrograman\19.11.2890\FP\FP\obj\Debug\netcoreapp3.1\FP.pdb
+E:\Tugas\Project\Pemrograman\19.11.2890\FP\FP\obj\Debug\netcoreapp3.1\FP.genruntimeconfig.cache
